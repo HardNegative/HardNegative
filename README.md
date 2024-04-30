@@ -2,7 +2,7 @@
   
 Me chame de **Hard**
 
-Here are some ideas to get you started:
+_Um pouco sobre mim:_
 
 - 🔭 Estou estudando no Alura
 - 🌱 Estou me desenvolvendo na linguagem JavaScript, Lua e HTML5/CSS
